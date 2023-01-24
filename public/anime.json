@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Naruto",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81g1x5bk2zL.jpg",
+      "imdb": 7.7,
+      "relase": "Ocrober 3rd, 2002",
+      "price": 100,
+      "key": 101
+    },
+    {
+      "name": "My Hero Academia",
+      "image": "https://th.bing.com/th/id/OIP.7UZU8YpPD0W8zSj7FnaxVwHaHa?pid=ImgDet&rs=1",
+      "imdb": 8.7,
+      "relase": "October 12, 2019",
+      "price": 120,
+      "key": 102
+    },
+    {
+      "name": "Death Note",
+      "image": "https://th.bing.com/th/id/OIP.XyQnTOYTUuJCBEegSNcM_QHaFr?pid=ImgDet&rs=1",
+      "imdb": 9.7,
+      "relase": "October 3rd, 2006",
+      "price": 110,
+      "key": 103
+    },
+    {
+      "name": "Tokyo Revenger",
+      "image": "https://i.pinimg.com/originals/ef/17/70/ef1770c323fb785ecc92f4f36c5fc891.jpg",
+      "imdb": 8.9,
+      "relase": "April 11th, 2021",
+      "price": 99,
+      "key": 104
+    },
+    {
+      "name": "Demon Slayer",
+      "image": "https://th.bing.com/th/id/R.d4f3d4f621f1d9c169b580e13f1e12dd?rik=%2fOtY2hIC7lWtiQ&pid=ImgRaw&r=0",
+      "imdb": 8.2,
+      "relase": "May 18th, 2020",
+      "price": 100,
+      "key": 105
+    },
+    {
+      "name": "Black Clover",
+      "image": "https://i.pinimg.com/474x/e9/11/70/e911708f1910cd2b6bb85ad11bccab01.jpg",
+      "imdb": 7,
+      "relase": "February 16th, 2015",
+      "price": 80,
+      "key": 106
+    },
+    {
+      "name": "Mob Psyco 100",
+      "image": "https://flxt.tmsimg.com/assets/p13924524_b_h9_ab.jpg",
+      "imdb": 8.7,
+      "relase": "July 12th, 2016",
+      "price": 130,
+      "key": 107
+    }
+  ]
